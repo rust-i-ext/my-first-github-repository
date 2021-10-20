@@ -1,6 +1,5 @@
 # my-first-github-repository
-
-Local update for the experiment-conflict-merge.
+Manual update for the experiment-merge-conflict.
 
 Description for the first repo
 
