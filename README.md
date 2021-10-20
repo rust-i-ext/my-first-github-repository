@@ -1,4 +1,4 @@
 # my-first-github-repository
 Description for the first repo
 
-Manual editing of the readme file. This file was modified locally.
+This line was modified during conflict resolution.
