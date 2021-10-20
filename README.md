@@ -1,4 +1,7 @@
 # my-first-github-repository
+
+Local update for the experiment-conflict-merge.
+
 Description for the first repo
 
 This line was modified during conflict resolution.
